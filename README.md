@@ -1,6 +1,6 @@
 # Strategy-and-Design-Proposal
 
-This project focused on identifying product and design issues contributing to low activation rates, high churn, and inefficient design workflows, and proposing strategic UX improvements to address them.
+This project focuses on identifying product and design issues contributing to low activation rates, high churn, and inefficient design workflows, and proposing strategic UX improvements to address them.
 
 Low Fidelity Wireframe designed to solve bad UX experience of customers.
 

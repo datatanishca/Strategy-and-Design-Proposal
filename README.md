@@ -13,4 +13,4 @@ One obvious next action: Upload / Record
 
 Upgrade is present but not disruptive
 
-Simple navigation: oday / Previous
+Simple navigation: Today / Previous
